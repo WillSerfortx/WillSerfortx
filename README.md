@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there, I'm M Washiur rahman! 👋
 
-<!--
-**WillSerfortx/WillSerfortx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student based in Dhaka, passionate about solving complex problems through code. I enjoy building efficient algorithms, exploring software architecture, and creating clean web interfaces.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   **Programming & Core:** C, Data Structures, Algorithms, Object-Oriented Programming
+*   **Web Development:** HTML, CSS, JavaScript 
+*   **Databases:** SQL, MySQL
+*   **Tools & Environments:** Git, GitHub, VS Code, Linux/Command Line, Postman, Figma
+
+### 🚀 What I'm Up To
+
+*   Working on academic projects focused on optimizing algorithms and memory management.
+*   Designing and building responsive web layouts.
+*   Expanding my knowledge of modern software development practices and version control.
+
+### 📫 Let's Connect
+
+*   **Email:** wrmahi777@gmail.com
