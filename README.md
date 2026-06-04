@@ -7,7 +7,7 @@ I'm a Computer Science student based in Dhaka, passionate about solving complex 
 *   **Programming & Core:** C, Data Structures, Algorithms, Object-Oriented Programming
 *   **Web Development:** HTML, CSS, JavaScript 
 *   **Databases:** SQL, MySQL
-*   **Tools & Environments:** Git, GitHub, VS Code, Linux/Command Line, Postman, Figma
+*   **Tools & Environments:** Git, GitHub, VS Code, Linux/Command Line, Figma
 
 ### 🚀 What I'm Up To
 
