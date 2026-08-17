@@ -4,7 +4,7 @@ hey there!     willserfortx@github -----------------------
                Languages: .... Python, Java, JavaScript, C, SQL
                Tech Stack: ... HTML, CSS, React, Node.js
                IDE: .......... VSCode, PyCharm, IntelliJ
-               Hardware: ..... Windows PC, MacBook Air M4, Pixel 7
+               Hardware: ..... Windows, Air M4, Pixel 7
                Interests: .... Algorithmic Complexity, Web Dev
                
                Projects ----------------------------------
