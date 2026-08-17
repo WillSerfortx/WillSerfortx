@@ -1,3 +1,4 @@
+```text
 hey there!     willserfortx@github -----------------------
                Role: ......... CS Major Student
                Languages: .... Python, Java, JavaScript, C, SQL
@@ -12,3 +13,4 @@ hey there!     willserfortx@github -----------------------
                Contact -----------------------------------
                Email: ........ wrmahi777@gmail.com
                Discord: ...... imahi7
+```
